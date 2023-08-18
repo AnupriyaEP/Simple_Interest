@@ -1,6 +1,6 @@
 # Simple_Interest
 
-C++ program for simple interest calculation
+C++ program for simple interest calculation.
 
 Here, we include the necessary header file iostream for input/output operations and use the std namespace to avoid explicitly writing std before standard C++ library functions.
 we decalare four variables time_period, rateodinterest, SimpleInterest and principle_amount.
